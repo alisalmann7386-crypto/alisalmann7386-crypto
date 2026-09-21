@@ -1,176 +1,225 @@
 
 <div align="center">
 
-# Hi, I'm Md Salman Ali 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=Md%20Salman%20Ali&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=17&descAlignY=60)
 
-### Software Engineering | Machine Learning | Generative AI
+### 👋 Hey there! Welcome to my little corner of GitHub.
 
-**B.Tech in Computer Science & Engineering (Data Science)**  
-Jamia Millia Islamia, New Delhi, India
+**I build software that learns, reasons, and solves real-world problems.**
 
-Building intelligent applications that combine machine learning, large language models, and software engineering.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salman-ali-8a301a324/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salman-ali-8a301a324/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍🚀 A Little About Me
 
-I'm a Computer Science undergraduate specializing in Data Science at Jamia Millia Islamia.
+```python
+salman = {
+    "name": "Md Salman Ali",
+    "education": "B.Tech CSE (Data Science)",
+    "university": "Jamia Millia Islamia",
+    "interests": [
+        "Generative AI & LLMs",
+        "Multi-Agent Systems",
+        "Machine Learning",
+        "Software Engineering",
+        "Computer Vision"
+    ],
+    "currently_learning": [
+        "Data Structures & Algorithms",
+        "System Design",
+        "MLOps"
+    ],
+    "goal": "Build intelligent, reliable software"
+}
+```
 
-My interests include developing intelligent software systems, building AI agents, and applying machine learning to real-world problems.
+I'm a Computer Science undergraduate passionate about turning ideas into working applications.
 
-I have hands-on experience building applications using Python, FastAPI, Streamlit, LangChain, and deep learning frameworks.
+I enjoy experimenting with AI models, building backend systems, and connecting machine learning research with practical software.
 
-- 🔬 **Research Interests:** LLMs, Retrieval-Augmented Generation, Multi-Agent Systems, Computer Vision, and Applied Machine Learning.
-- 🛠️ **Development:** Python applications, REST APIs, ML pipelines, and AI-powered web applications.
-- 📚 **Currently Learning:** Advanced DSA, System Design, LLM evaluation, and MLOps.
-- 🎯 **Career Interests:** Software Engineering, Machine Learning, and AI Research Internships.
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
-### Machine Learning & Deep Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Generative AI & LLMs
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**RAG • AI Agents • Prompt Engineering • Mistral AI • Groq • ChromaDB • FAISS**
-
-### Backend & Development Tools
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-**REST APIs • SQL • Docker • VS Code • Jupyter Notebook**
+My work includes **AI agents, retrieval-augmented generation, deep learning, and ML-powered web applications.**
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ What I'm Exploring
 
-### 1. AI Video Assistant — Video Understanding with RAG
-
-[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/AI-VIDEO-ASSISTANT)
-
-An AI-powered video analysis application that transforms YouTube videos and uploaded media into searchable knowledge.
-
-**Key Features**
-- Audio extraction and transcription.
-- Intelligent summarization and information retrieval.
-- Semantic search over transcript embeddings.
-- Contextual question answering using RAG.
-- Integration with multiple LLM providers.
-
-**Tech Stack:** Python, LangChain, Streamlit, yt-dlp, Vector Databases, LLM APIs.
+| Area | What excites me |
+|:---|:---|
+| 🤖 Generative AI | LLM applications, RAG, and AI agents |
+| 🧠 Machine Learning | Model development and experimentation |
+| 👁️ Computer Vision | Image classification and deep learning |
+| 💻 Software Engineering | APIs, backend systems, and clean code |
+| 🚀 Deployment | Turning prototypes into accessible applications |
 
 ---
 
-### 2. Multi-Agent AI Research Assistant
+## 🛠️ My Tech Arsenal
 
-[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/Multi-agent-research-system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://multi-agent-research-system-salman.streamlit.app/)
+<div align="center">
 
-A research automation system that coordinates specialized AI agents to investigate complex topics and generate structured responses.
+**Languages**
 
-**Key Features**
-- Multi-agent task decomposition and orchestration.
-- Automated web research and information gathering.
-- Research analysis and synthesis.
-- Structured research report generation.
-- Source-based research workflow.
+<img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" alt="Python, C++, C" />
 
-**Tech Stack:** Python, LangChain, Mistral AI, Tavily, Pydantic.
+**AI, Machine Learning & Data**
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch&theme=dark" alt="TensorFlow, Scikit-learn, PyTorch" />
 
-### 3. AgroVision AI — Plant Disease Detection
+Python • NumPy • Pandas • Keras • LangChain
 
-[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/Plant-Disease-Detection)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://plant-disease-detection-s.streamlit.app/)
+**Generative AI**
 
-A computer vision application that uses deep learning to classify plant diseases from leaf images.
+LangChain • Mistral AI • Groq • Hugging Face
 
-**Key Features**
-- CNN-based image classification across 38 classes.
-- Image preprocessing and confidence visualization.
-- Disease information and treatment suggestions.
-- Downloadable diagnostic reports.
+RAG • AI Agents • ChromaDB • FAISS
 
-**Tech Stack:** Python, TensorFlow, Keras, CNN, Streamlit.
+**Backend & Development**
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,docker,postgres,vscode&theme=dark" alt="FastAPI, Git, GitHub, Docker, PostgreSQL, VS Code" />
+
+Streamlit • REST APIs • Jupyter Notebook
+
+</div>
 
 ---
 
-### 4. Smart Agriculture AI — Crop Recommendation
+# 🚀 Things I've Built
 
-[![Repository](https://img.shields.io/badge/Source_Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/Smart-Agriculture-AI)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://smart-agriculture-ai-salman.streamlit.app/)
+*Ideas are interesting. Working software is even better.*
 
-A machine learning application that recommends crops using soil nutrients and environmental conditions.
+### 🤖 01 | Multi-Agent AI Research Assistant
 
-**Key Features**
-- Random Forest-based crop recommendation.
-- Real-time weather API integration.
-- Top-five crop recommendations.
+**Research automation powered by collaborating AI agents.**
+
+A system designed to break complex questions into smaller research tasks, search for information, analyze sources, and generate structured reports.
+
+- Specialized research, search, analysis, and synthesis agents.
+- Automated information gathering and report generation.
+- LLM orchestration using LangChain and Mistral AI.
+
+**Stack:** Python · LangChain · Mistral AI · Tavily
+
+[![Code](https://img.shields.io/badge/Explore_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/Multi-agent-research-system)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://multi-agent-research-system-salman.streamlit.app/)
+
+---
+
+### 🎥 02 | AI Video Assistant
+
+**Turn long videos into searchable knowledge.**
+
+An AI-powered application for transcribing and understanding YouTube videos and uploaded media.
+
+- Audio extraction and speech-to-text transcription.
+- Intelligent summaries and key information extraction.
+- Semantic retrieval over video transcripts.
+- Context-aware question answering using RAG.
+
+**Stack:** Python · LangChain · Streamlit · LLM APIs
+
+[![Code](https://img.shields.io/badge/Explore_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/AI-VIDEO-ASSISTANT)
+
+---
+
+### 🌿 03 | AgroVision AI
+
+**Helping identify plant diseases through computer vision.**
+
+A deep learning application that analyzes leaf images and predicts plant disease classes.
+
+- CNN-based image classification.
+- 38 disease and healthy-plant classes.
 - Prediction confidence visualization.
-- Fertilizer suggestions and downloadable reports.
+- Disease information and downloadable reports.
 
-**Tech Stack:** Python, Scikit-learn, Random Forest, Streamlit, OpenWeather API.
+**Stack:** TensorFlow · Keras · CNN · Streamlit
 
----
-
-## 📂 More Projects
-
-| Project | Description |
-|---|---|
-| [Heart Disease Prediction](https://github.com/alisalmann7386-crypto/heart-disease-prediction-ml) | SVM-based machine learning application for heart disease risk prediction. |
-| [Mental Health Score Predictor](https://github.com/alisalmann7386-crypto/Mental-Health-Score) | ML prediction application with a FastAPI backend and responsive frontend. |
-| [YT Video Assistant](https://github.com/alisalmann7386-crypto/YT-VIDEO-ASSISTANT) | Video transcription, summarization, action-item extraction, and RAG-based Q&A. |
+[![Code](https://img.shields.io/badge/Explore_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/Plant-Disease-Detection)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://plant-disease-detection-s.streamlit.app/)
 
 ---
 
-## 📊 GitHub Activity
+### 🌾 04 | Smart Agriculture AI
+
+**Machine learning for data-driven crop recommendations.**
+
+An application that recommends crops using soil nutrients, weather conditions, and environmental data.
+
+- Random Forest-based crop prediction.
+- Live weather API integration.
+- Top-five crop recommendations.
+- Fertilizer suggestions and prediction reports.
+
+**Stack:** Python · Scikit-learn · Streamlit · OpenWeather API
+
+[![Code](https://img.shields.io/badge/Explore_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto/Smart-Agriculture-AI)
+[![Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://smart-agriculture-ai-salman.streamlit.app/)
+
+---
+
+## 📦 More from My GitHub
+
+| Project | Focus |
+|:---|:---|
+| [❤️ Heart Disease Prediction](https://github.com/alisalmann7386-crypto/heart-disease-prediction-ml) | SVM-based ML prediction with Streamlit |
+| [🧠 Mental Health Score Predictor](https://github.com/alisalmann7386-crypto/Mental-Health-Score) | Machine learning with a FastAPI backend |
+| [📺 YT Video Assistant](https://github.com/alisalmann7386-crypto/YT-VIDEO-ASSISTANT) | Transcription, summarization, and RAG |
+
+---
+
+## 🧬 How I Like to Build
+
+```text
+           💡 An Idea
+               │
+               ▼
+       🔍 Explore & Research
+               │
+               ▼
+       🧠 Design the System
+               │
+               ▼
+       💻 Build & Experiment
+               │
+               ▼
+       🧪 Test & Improve
+               │
+               ▼
+       🚀 Deploy & Share
+```
+
+I enjoy the entire journey, from understanding a problem to developing and sharing a working solution.
+
+---
+
+## 📈 My GitHub Journey
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisalmann7386-crypto&show_icons=true&hide_border=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=alisalmann7386-crypto&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisalmann7386-crypto&layout=compact&hide_border=true)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisalmann7386-crypto&layout=compact&hide_border=true&theme=tokyonight" alt="Most used repository languages"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Let's Connect!
 
-I'm interested in collaborating on open-source projects, AI research, and software engineering.
-
-- **LinkedIn:** [Md Salman Ali](https://www.linkedin.com/in/md-salman-ali-8a301a324/)
-- **GitHub:** [alisalmann7386-crypto](https://github.com/alisalmann7386-crypto)
-
----
+I'm interested in software engineering, AI research, open-source collaboration, and internship opportunities.
 
 <div align="center">
 
-**Building intelligent systems, one project at a time.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md_Salman_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salman-ali-8a301a324/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-alisalmann7386--crypto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto)
+
+### "Stay curious. Keep building."
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=110&section=footer)
 
 </div>
