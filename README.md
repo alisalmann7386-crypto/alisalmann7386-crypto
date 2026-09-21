@@ -1,20 +1,11 @@
-<!-- A self-hosted profile: no fragile external hero or statistics widgets. -->
-<div align="center">
+<!-- Self-hosted header artwork; project descriptions are based on repository READMEs. -->
+<p align="center"><img src="./assets/profile-hero.svg" width="100%" alt="Md Salman Ali — Building Intelligence into Software" /></p>
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Md Salman Ali — Building Intelligence into Software" />
-
-### `> hello_world();` 👋
-
-**CSE (Data Science) @ Jamia Millia Islamia · New Delhi, India**
-
-I turn ideas into working software — from **AI agents and RAG** to **computer vision and ML-powered applications**.
-
-[![Explore projects](https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisalmann7386-crypto?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salman-ali-8a301a324/)
-
-[ABOUT](#-about-me) · [TOOLKIT](#-my-toolkit) · [PROJECTS](#-selected-builds) · [CONNECT](#-lets-connect)
-
-</div>
+<h3 align="center"><code>&gt; hello_world();</code> 👋</h3>
+<p align="center"><strong>CSE (Data Science) @ Jamia Millia Islamia · New Delhi, India</strong></p>
+<p align="center">I turn ideas into working software — from <strong>AI agents and RAG</strong> to <strong>computer vision and ML-powered applications</strong>.</p>
+<p align="center"><a href="https://github.com/alisalmann7386-crypto?tab=repositories"><img alt="Explore projects" src="https://img.shields.io/badge/EXPLORE_PROJECTS-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a> <a href="https://www.linkedin.com/in/md-salman-ali-8a301a324/"><img alt="LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-2563EB?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a></p>
+<p align="center"><a href="#-about-me">ABOUT</a> · <a href="#-my-toolkit">TOOLKIT</a> · <a href="#-selected-builds">PROJECTS</a> · <a href="#-lets-connect">CONNECT</a></p>
 
 ---
 
@@ -86,7 +77,7 @@ I enjoy the intersection of **software engineering and applied AI**: designing u
 [**↗ Source code**](https://github.com/alisalmann7386-crypto/Smart-Agriculture-AI) · [**↗ Live demo**](https://smart-agriculture-ai-salman.streamlit.app/)
 
 <details>
-<summary><b>＋ Open the rest of my project lab</b></summary>
+<summary><strong>＋ Open the rest of my project lab</strong></summary>
 
 | Project | What it explores |
 | :-- | :-- |
@@ -118,12 +109,6 @@ I'm especially interested in making AI applications **useful, understandable, an
 
 [**LinkedIn ↗**](https://www.linkedin.com/in/md-salman-ali-8a301a324/) · [**All repositories ↗**](https://github.com/alisalmann7386-crypto?tab=repositories)
 
-<div align="center">
-
 ---
 
-`while (curious) { learn(); build(); improve(); }`
-
-**Thanks for stopping by. ✨**
-
-</div>
+<p align="center"><code>while (curious) { learn(); build(); improve(); }</code><br/><br/><strong>Thanks for stopping by. ✨</strong></p>
