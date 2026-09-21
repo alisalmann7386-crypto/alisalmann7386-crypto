@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Md Salman Ali — software engineering, machine learning and generative AI</title>
+  <desc id="desc">Midnight blue portfolio banner with violet and cyan orbital circuits.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080F24"/><stop offset=".58" stop-color="#111337"/><stop offset="1" stop-color="#11263D"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".065"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity=".23"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="22" fill="url(#grid)"/>
+  <circle cx="1065" cy="178" r="240" fill="url(#glow)"/>
+  <path d="M44 46H186 M44 46V76 M1236 314H1094 M1236 314V284" stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+  <rect x="56" y="53" width="130" height="26" rx="13" fill="#1F254A" stroke="#8B5CF6" stroke-opacity=".7"/>
+  <circle cx="72" cy="66" r="4" fill="#67E8F9"/>
+  <text x="85" y="70" fill="#D8D3FF" font-size="10" font-family="Arial, sans-serif" letter-spacing="1.5">HELLO WORLD</text>
+  <text x="58" y="139" fill="#B7A6FF" font-size="15" font-family="Arial, sans-serif" font-weight="700" letter-spacing="4">PORTFOLIO / 2026</text>
+  <text x="54" y="205" fill="#FFFFFF" font-size="60" font-family="Arial, sans-serif" font-weight="700" letter-spacing="-2">Md Salman Ali</text>
+  <rect x="58" y="224" width="380" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="58" y="259" fill="#D7E0F5" font-size="17" font-family="Arial, sans-serif" letter-spacing="1">BUILDING INTELLIGENCE INTO SOFTWARE</text>
+  <text x="58" y="302" fill="#9EACC9" font-size="12" font-family="Arial, sans-serif" letter-spacing="1.5">SOFTWARE ENGINEERING  /  MACHINE LEARNING  /  GENERATIVE AI</text>
+  <g transform="translate(1020 177)" fill="none" stroke-width="1.6">
+    <circle r="126" stroke="#7C84C2" stroke-opacity=".45"/>
+    <circle r="91" stroke="#9B8FF7" stroke-opacity=".55" stroke-dasharray="5 8"/>
+    <circle r="56" stroke="#67E8F9" stroke-opacity=".65"/>
+    <path d="M-157 0H157 M0 -155V155" stroke="#6A729F" stroke-opacity=".18"/>
+    <path d="M-90 -90L-132 -114H-165 M90 90L134 115H175 M76 -110L111 -135H151" stroke="#8B9DDB" stroke-opacity=".7"/>
+    <circle cx="-165" cy="-114" r="4" fill="#A78BFA" stroke="none"/>
+    <circle cx="175" cy="115" r="4" fill="#67E8F9" stroke="none"/>
+    <circle cx="151" cy="-135" r="4" fill="#A78BFA" stroke="none"/>
+    <circle cx="-89" cy="-90" r="5" fill="#A78BFA" stroke="none"/>
+    <circle cx="90" cy="90" r="5" fill="#67E8F9" stroke="none"/>
+    <circle cx="0" cy="-91" r="5" fill="#67E8F9" stroke="none"/>
+    <rect x="-38" y="-26" width="76" height="52" rx="12" fill="#20224E" stroke="#A78BFA"/>
+    <path d="M-18 -7L-29 0L-18 7 M18 -7L29 0L18 7 M7 -13L-7 13" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="1188" y="72" fill="#94A3B8" font-size="11" font-family="Arial, sans-serif" letter-spacing="2">07 / REPOS</text>
+</svg>
