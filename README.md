@@ -1,113 +1,118 @@
-<!-- Md Salman Ali | self-hosted hero; no dependency on third-party stats or animation services. -->
+<!-- Portfolio for Md Salman Ali. Animated SVG artwork is self-hosted in /assets. -->
 <p align="center">
-  <img src="./assets/hero-v2.svg" width="100%" alt="Md Salman Ali — Software Engineering × Applied AI" />
+  <img src="./assets/hero-motion.svg" width="100%" alt="Md Salman Ali — Software Engineering × Applied AI; floating orbital illustration" />
 </p>
 
 <p align="center">
-  <strong>Hi, I'm Salman.</strong> I build AI-powered products, experiment with machine learning, and turn research ideas into usable software.
-  <br/><br/>
-  <a href="https://github.com/alisalmann7386-crypto?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/EXPLORE_MY_WORK-C5F277?style=for-the-badge&logo=github&logoColor=172017" /></a>
-  <a href="https://www.linkedin.com/in/md-salman-ali-8a301a324/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-AAA7FF?style=for-the-badge&logo=linkedin&logoColor=172017" /></a>
+  <img src="./assets/floating-status.svg" width="88%" alt="Currently building AI agents, video RAG, and software" />
 </p>
 
-<p align="center"><sub>BASED IN NEW DELHI, INDIA &nbsp; / &nbsp; B.TECH CSE (DATA SCIENCE) @ JAMIA MILLIA ISLAMIA</sub></p>
+<h3 align="center">Hi, I'm Salman. 👋</h3>
+<p align="center">I build AI-powered products, experiment with machine learning, and turn research ideas into usable software.</p>
+<p align="center"><strong>B.Tech CSE (Data Science)</strong> · Jamia Millia Islamia · New Delhi, India</p>
+
+<p align="center">
+  <a href="https://github.com/alisalmann7386-crypto?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/EXPLORE_MY_WORK-C5F277?style=for-the-badge&amp;logo=github&amp;logoColor=172017" /></a>
+  <a href="https://www.linkedin.com/in/md-salman-ali-8a301a324/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LET'S_CONNECT-AAA7FF?style=for-the-badge&amp;logo=linkedin&amp;logoColor=172017" /></a>
+</p>
 
 ---
 
-### 01 &nbsp; / &nbsp; THE SHORT VERSION
+### 01 / THE SHORT VERSION
 
-> **I work at the intersection of software engineering and applied AI.** My projects range from multi-agent research and video RAG to computer vision and predictive machine learning. I care about building systems that are useful, understandable, and testable.
+> **Software engineering meets applied AI.** From multi-agent research and video RAG to computer vision and predictive ML, I enjoy building systems that are useful, understandable, and testable.
 
-**Currently exploring:** LLM evaluation · agent reliability · data structures & algorithms · system design · MLOps  
-**Interested in:** software engineering, machine learning, and AI research internships
+**Currently exploring** → LLM evaluation · agent reliability · data structures & algorithms · system design · MLOps  
+**Interested in** → software engineering · machine learning · AI research internships
 
 ---
 
-### 02 &nbsp; / &nbsp; SELECTED WORK
+### 02 / THE PROJECT LAB 🧪
 
-These are real projects from my repositories. Each one has a different technical focus.
+*Four different problems. Four different ways of combining models with real applications.*
 
-#### `01` &nbsp; MULTI-AGENT RESEARCH SYSTEM &nbsp; ↗
+#### `01` 🤖 MULTI-AGENT RESEARCH SYSTEM
 
-**A team of specialized AI agents for one research question.** An orchestrator coordinates web search, research, analysis, and synthesis into a structured report.
+**Research with a team of specialized AI agents.** An orchestrator coordinates web search, research, analysis, and synthesis to produce a structured report.
 
 `LangChain` `Mistral AI` `Tavily` `Python`  
-**Focus:** agent orchestration · tool use · information retrieval
+**Explore:** orchestration · tool use · information retrieval
 
-[**VIEW CODE ↗**](https://github.com/alisalmann7386-crypto/Multi-agent-research-system) &nbsp; · &nbsp; [**OPEN DEMO ↗**](https://multi-agent-research-system-salman.streamlit.app/)
+[**SOURCE CODE ↗**](https://github.com/alisalmann7386-crypto/Multi-agent-research-system) · [**LIVE DEMO ↗**](https://multi-agent-research-system-salman.streamlit.app/)
 
 ---
 
-#### `02` &nbsp; AI VIDEO ASSISTANT &nbsp; ↗
+#### `02` 🎬 AI VIDEO ASSISTANT
 
-**Ask questions about a video instead of searching through it manually.** Processes YouTube links or uploaded media, transcribes audio, summarizes it, and supports transcript-grounded Q&A with RAG.
+**Make videos searchable.** Process YouTube links or uploaded media, transcribe and summarize audio, then ask questions about the content through RAG.
 
 `Python` `Streamlit` `LangChain` `yt-dlp`  
-**Focus:** speech-to-text · embeddings · semantic retrieval · LLM integration
+**Explore:** transcription · embeddings · semantic search
 
-[**VIEW CODE ↗**](https://github.com/alisalmann7386-crypto/AI-VIDEO-ASSISTANT)
+[**SOURCE CODE ↗**](https://github.com/alisalmann7386-crypto/AI-VIDEO-ASSISTANT)
 
 ---
 
-#### `03` &nbsp; AGROVISION AI &nbsp; ↗
+#### `03` 🌿 AGROVISION AI
 
 **Computer vision for plant health.** A CNN classifies leaf images across 38 healthy-plant and disease classes, with confidence visualizations and downloadable reports.
 
 `TensorFlow` `Keras` `CNN` `Streamlit`  
-**Focus:** image preprocessing · deep learning inference · model UX
+**Explore:** image preprocessing · deep learning inference · model UX
 
-[**VIEW CODE ↗**](https://github.com/alisalmann7386-crypto/Plant-Disease-Detection) &nbsp; · &nbsp; [**OPEN DEMO ↗**](https://plant-disease-detection-s.streamlit.app/)
+[**SOURCE CODE ↗**](https://github.com/alisalmann7386-crypto/Plant-Disease-Detection) · [**LIVE DEMO ↗**](https://plant-disease-detection-s.streamlit.app/)
 
 ---
 
-#### `04` &nbsp; SMART AGRICULTURE AI &nbsp; ↗
+#### `04` 🌾 SMART AGRICULTURE AI
 
-**From soil and weather data to crop recommendations.** Uses a Random Forest model alongside weather information to produce crop suggestions and interactive visualizations.
+**From soil data to crop recommendations.** Uses a Random Forest model and weather information to produce crop suggestions and interactive visualizations.
 
 `Scikit-learn` `Random Forest` `Streamlit` `OpenWeather API`  
-**Focus:** applied ML · API integration · data visualization
+**Explore:** applied ML · API integration · visualization
 
-[**VIEW CODE ↗**](https://github.com/alisalmann7386-crypto/Smart-Agriculture-AI) &nbsp; · &nbsp; [**OPEN DEMO ↗**](https://smart-agriculture-ai-salman.streamlit.app/)
+[**SOURCE CODE ↗**](https://github.com/alisalmann7386-crypto/Smart-Agriculture-AI) · [**LIVE DEMO ↗**](https://smart-agriculture-ai-salman.streamlit.app/)
 
 <details>
-<summary><strong>＋ EXPLORE THREE MORE BUILDS</strong></summary>
-<br/>
+<summary><strong>✦ Open three more builds</strong></summary>
 
 | Project | Technical focus |
 | :-- | :-- |
-| [Heart Disease Prediction ↗](https://github.com/alisalmann7386-crypto/heart-disease-prediction-ml) | SVM classification and a Streamlit risk-estimation interface |
-| [Mental Health Score Predictor ↗](https://github.com/alisalmann7386-crypto/Mental-Health-Score) | An ML scoring application with a FastAPI backend; not a clinical diagnostic tool |
-| [YT Video Assistant ↗](https://github.com/alisalmann7386-crypto/YT-VIDEO-ASSISTANT) | Transcription, summarization, action items, and RAG-powered Q&A |
+| [❤️ Heart Disease Prediction](https://github.com/alisalmann7386-crypto/heart-disease-prediction-ml) | SVM classification with a Streamlit risk-estimation interface |
+| [🧠 Mental Health Score Predictor](https://github.com/alisalmann7386-crypto/Mental-Health-Score) | ML scoring application with FastAPI; not a clinical diagnostic tool |
+| [📺 YT Video Assistant](https://github.com/alisalmann7386-crypto/YT-VIDEO-ASSISTANT) | Transcription, summaries, action items and RAG-based Q&A |
 
 </details>
 
 ---
 
-### 03 &nbsp; / &nbsp; WHAT I BUILD WITH
+### 03 / THE TOOLKIT ⚡
 
-| **LANGUAGES** | **AI & MACHINE LEARNING** | **PRODUCT & BACKEND** |
-| :-- | :-- | :-- |
-| Python · C++ · C · SQL | LangChain · Mistral AI · Groq | FastAPI · Streamlit · REST APIs |
-| Data structures & algorithms | Scikit-learn · TensorFlow · Keras | Pydantic · Git · GitHub |
-| | RAG · AI agents · ChromaDB · FAISS | Docker · Jupyter Notebook |
+| Layer | Technologies |
+| :-- | :-- |
+| **Languages** | Python · C++ · C · SQL |
+| **AI & LLMs** | LangChain · Mistral AI · Groq · Hugging Face · RAG · AI agents |
+| **ML & vision** | Scikit-learn · TensorFlow / Keras · NumPy · Pandas · CNNs |
+| **Product & backend** | FastAPI · Streamlit · REST APIs · Pydantic |
+| **Tools & data** | Git · GitHub · Docker · ChromaDB · FAISS · Jupyter |
 
 ---
 
-### 04 &nbsp; / &nbsp; MY PROCESS
+### 04 / HOW I BUILD 🧭
 
 ```text
-  01 / UNDERSTAND   →   02 / DESIGN   →   03 / BUILD   →   04 / TEST   →   05 / IMPROVE
-       Problem            System            Model + API       Evaluate         Iterate
+ UNDERSTAND   →   DESIGN   →   BUILD   →   TEST   →   IMPROVE
+   Problem       System      Model+API    Evaluate     Iterate
 ```
 
-I prefer a working, explainable prototype over a long list of buzzwords. My goal is to connect research, models, and good software practices.
+I care about connecting research and models to good software practices—not just getting a model to produce an answer.
 
 ---
 
-### 05 &nbsp; / &nbsp; SAY HELLO
+### 05 / SAY HELLO ✳
 
 Have a research idea, an open-source project, or an internship opportunity? I'd be glad to connect.
 
-**[LINKEDIN ↗](https://www.linkedin.com/in/md-salman-ali-8a301a324/)** &nbsp; / &nbsp; **[ALL REPOSITORIES ↗](https://github.com/alisalmann7386-crypto?tab=repositories)**
+**[LINKEDIN ↗](https://www.linkedin.com/in/md-salman-ali-8a301a324/)** · **[ALL REPOSITORIES ↗](https://github.com/alisalmann7386-crypto?tab=repositories)**
 
-<p align="center"><br/><sub>KEEP LEARNING &nbsp; · &nbsp; KEEP BUILDING &nbsp; · &nbsp; KEEP IMPROVING</sub><br/><br/><strong>Thanks for visiting. ✳</strong></p>
+<p align="center"><sub>KEEP LEARNING · KEEP BUILDING · KEEP IMPROVING</sub><br/><br/><strong>Thanks for visiting. ✨</strong></p>
